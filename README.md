@@ -1,8 +1,18 @@
 # FoodOrderApp
   
-  [<h3>Download APK</h3>](https://github.com/azizsafaroff/FoodOrderApp/blob/main/food_order.apk)
+  [<h2>Download APK</h2>](https://github.com/azizsafaroff/FoodOrderApp/blob/main/food_order.apk)
+  
+  <h3>Packages:<h3>
+  
+  cloud_firestore: ^2.5.2
+  firebase_storage: ^10.0.3
+  firebase_auth: ^3.1.1
+  firebase_core: ^1.6.0
+  flutter_zoom_drawer:
+  flutter_slidable: ^0.6.0
+  intl: ^0.17.0
 
-  <h4>Images App</h4>
+  <h2>Images App</h2>
   
   
 <a href="https://ibb.co/YtHqJVH"><img src="https://i.ibb.co/0fHd1zH/Screenshot-20210913-172044.jpg" alt="Screenshot-20210913-172044" border="0" width = "360" height = "760"></a>
