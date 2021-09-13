@@ -4,12 +4,12 @@
   
   <h3>Packages:<h3>
   
-  cloud_firestore: ^2.5.2
-  firebase_storage: ^10.0.3
-  firebase_auth: ^3.1.1
-  firebase_core: ^1.6.0
-  flutter_zoom_drawer:
-  flutter_slidable: ^0.6.0
+  cloud_firestore: ^2.5.2<br>
+  firebase_storage: ^10.0.3<br>
+  firebase_auth: ^3.1.1<br>
+  firebase_core: ^1.6.0<br>
+  flutter_zoom_drawer:<br>
+  flutter_slidable: ^0.6.0<br>
   intl: ^0.17.0
 
   <h2>Images App</h2>
